@@ -1,0 +1,15 @@
+{
+  "name": "reveal-starter",
+  "version": "1.0.0",
+  "description": "Simple reveal.js starter boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start -s -f ."
+  },
+  "author": "Veit Lehmann",
+  "license": "WTFPL",
+  "dependencies": {
+    "browser-sync": "^2.18.7",
+    "reveal.js": "^3.4.1"
+  }
+}
